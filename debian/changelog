@@ -1,0 +1,11 @@
+python-click-repl (0.1.6-2) unstable; urgency=medium
+
+  * Uploading source-only.
+
+ -- Thomas Goirand <zigo@debian.org>  Sun, 18 Oct 2020 17:14:33 +0200
+
+python-click-repl (0.1.6-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #972352)
+
+ -- Thomas Goirand <zigo@debian.org>  Fri, 16 Oct 2020 14:07:21 +0200

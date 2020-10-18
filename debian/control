@@ -1,0 +1,39 @@
+Source: python-click-repl
+Section: python
+Priority: optional
+Maintainer: Debian Python Team <team+python@tracker.debian.org>
+Uploaders:
+ Thomas Goirand <zigo@debian.org>,
+Build-Depends:
+ debhelper-compat (= 12),
+ dh-python,
+ python3-all,
+ python3-setuptools,
+Build-Depends-Indep:
+ python3-click,
+ python3-prompt-toolkit,
+ python3-six,
+Standards-Version: 4.5.0
+Vcs-Browser: https://salsa.debian.org/python-team/packages/python-click-repl
+Vcs-Git: https://salsa.debian.org/python-team/packages/python-click-repl.git
+Homepage: https://github.com/untitaker/click-repl
+
+Package: python3-click-repl
+Architecture: all
+Depends:
+ python3-click,
+ python3-prompt-toolkit,
+ python3-six,
+ ${misc:Depends},
+ ${python3:Depends},
+Description: REPL plugin for Click - Python 3.x
+ Click is a Python package for creating beautiful command line interfaces
+ in a composable way with as little code as necessary.  It's the "Command
+ Line Interface Creation Kit".  It's highly configurable but comes with
+ sensible defaults out of the box.
+ .
+ It aims to make the process of writing command line tools quick and fun
+ while also preventing any frustration caused by the inability to implement
+ an intended CLI API.
+ .
+ This package provides a REPL plugin for click.
