@@ -1,3 +1,11 @@
+python-click-repl (0.2.0-1) unstable; urgency=medium
+
+  * d/control: Add me to uploaders
+  * d/copyright: Add me to copyright file
+  * New upstream version (Closes: #997345)
+
+ -- Michal Arbet <michal.arbet@ultimum.io>  Sun, 07 Nov 2021 15:37:49 +0100
+
 python-click-repl (0.1.6-2) unstable; urgency=medium
 
   * Uploading source-only.

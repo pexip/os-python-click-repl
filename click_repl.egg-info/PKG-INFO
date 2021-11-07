@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: click-repl
-Version: 0.1.6
+Version: 0.2.0
 Summary: REPL plugin for Click
 Home-page: https://github.com/untitaker/click-repl
 Author: Markus Unterwaditzer

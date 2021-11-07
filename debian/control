@@ -4,6 +4,7 @@ Priority: optional
 Maintainer: Debian Python Team <team+python@tracker.debian.org>
 Uploaders:
  Thomas Goirand <zigo@debian.org>,
+ Michal Arbet <michal.arbet@ultimum.io>,
 Build-Depends:
  debhelper-compat (= 12),
  dh-python,
