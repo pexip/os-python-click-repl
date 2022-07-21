@@ -8,6 +8,7 @@ License: Expat
 
 Files: debian/*
 Copyright: (c) 2020, Thomas Goirand <zigo@debian.org>
+           (c) 2021, Michal Arbet <michal.arbet@ultimum.io>
 License: Expat
 
 License: Expat

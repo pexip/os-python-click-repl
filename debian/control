@@ -5,6 +5,7 @@ Maintainer: Pexip AS <packaging@pexip.com>
 XSBC-Pexip-Original-Maintainer: Debian Python Team <team+python@tracker.debian.org>
 XSBC-Pexip-Original-Uploaders:
  Thomas Goirand <zigo@debian.org>,
+ Michal Arbet <michal.arbet@ultimum.io>,
 Build-Depends:
  debhelper-compat (= 12),
  dh-python,
