@@ -1,4 +1,4 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: click-repl
 Source: https://github.com/untitaker/click-repl
 
@@ -8,6 +8,7 @@ License: Expat
 
 Files: debian/*
 Copyright: (c) 2020, Thomas Goirand <zigo@debian.org>
+           (c) 2021, Michal Arbet <michal.arbet@ultimum.io>
 License: Expat
 
 License: Expat

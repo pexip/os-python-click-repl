@@ -1,3 +1,30 @@
+python-click-repl (0.2.0-3) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Wrap long lines in changelog entries: 0.2.0-2.
+  * Update standards version to 4.6.1, no changes needed.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Mon, 17 Oct 2022 00:24:32 +0100
+
+python-click-repl (0.2.0-2) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Use secure copyright file specification URI.
+  * Bump debhelper from old 12 to 13.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update standards version to 4.6.0, no changes needed.
+
+ -- Jelmer Vernooĳ <jelmer@debian.org>  Mon, 29 Aug 2022 22:05:56 +0100
+
+python-click-repl (0.2.0-1) unstable; urgency=medium
+
+  * d/control: Add me to uploaders
+  * d/copyright: Add me to copyright file
+  * New upstream version (Closes: #997345)
+
+ -- Michal Arbet <michal.arbet@ultimum.io>  Sun, 07 Nov 2021 15:37:49 +0100
+
 python-click-repl (0.1.6-2) unstable; urgency=medium
 
   * Uploading source-only.
