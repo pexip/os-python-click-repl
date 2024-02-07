@@ -7,13 +7,13 @@ Uploaders:
  Michal Arbet <michal.arbet@ultimum.io>,
 Build-Depends:
  debhelper-compat (= 13),
- dh-python,
+ dh-sequence-python3,
  python3-all,
  python3-setuptools,
 Build-Depends-Indep:
  python3-click,
  python3-prompt-toolkit,
- python3-six,
+Rules-Requires-Root: no
 Standards-Version: 4.6.1
 Vcs-Browser: https://salsa.debian.org/python-team/packages/python-click-repl
 Vcs-Git: https://salsa.debian.org/python-team/packages/python-click-repl.git
@@ -24,7 +24,6 @@ Architecture: all
 Depends:
  python3-click,
  python3-prompt-toolkit,
- python3-six,
  ${misc:Depends},
  ${python3:Depends},
 Description: REPL plugin for Click - Python 3.x
