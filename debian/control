@@ -19,7 +19,7 @@ Standards-Version: 4.6.1
 Vcs-Browser: https://salsa.debian.org/python-team/packages/python-click-repl
 Vcs-Git: https://salsa.debian.org/python-team/packages/python-click-repl.git
 Homepage: https://github.com/untitaker/click-repl
-XS-Pexip-Upstream: http://ftp.debian.org/debian/ bookworm
+XS-Pexip-Upstream: http://deb.debian.org/debian/ trixie
 
 Package: python3-click-repl
 Architecture: all
