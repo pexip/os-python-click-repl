@@ -1,25 +1,3 @@
-Metadata-Version: 2.1
-Name: click-repl
-Version: 0.3.0
-Summary: REPL plugin for Click
-Home-page: https://github.com/untitaker/click-repl
-Author: Markus Unterwaditzer
-Author-email: markus@unterwaditzer.net
-License: MIT
-Platform: UNKNOWN
-Classifier: Programming Language :: Python :: 3
-Classifier: Programming Language :: Python :: 3 :: Only
-Classifier: Programming Language :: Python :: 3.6
-Classifier: Programming Language :: Python :: 3.7
-Classifier: Programming Language :: Python :: 3.8
-Classifier: Programming Language :: Python :: 3.9
-Classifier: Programming Language :: Python :: 3.10
-Classifier: Programming Language :: Python :: 3.11
-Requires-Python: >=3.6
-Description-Content-Type: text/markdown
-Provides-Extra: testing
-License-File: LICENSE
-
 click-repl
 ===
 
@@ -108,5 +86,3 @@ will start a REPL which has its history stored in
 Any arguments that can be passed to the [`python-prompt-toolkit`](https://github.com/prompt-toolkit/python-prompt-toolkit) [Prompt](http://python-prompt-toolkit.readthedocs.io/en/stable/pages/reference.html?prompt_toolkit.shortcuts.Prompt#prompt_toolkit.shortcuts.Prompt) class
 can be passed in the `prompt_kwargs` argument and will be used when
 instantiating your `Prompt`.
-
-

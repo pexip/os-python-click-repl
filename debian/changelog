@@ -1,3 +1,13 @@
+python-click-repl (0.3.0-1) unstable; urgency=medium
+
+  * Team Upload
+  * New upstream version 0.3.0
+  * remove old dependency on python3-six
+  * use new dh-sequence-python3
+  * set Rules-Requires-Root: no
+
+ -- Alexandre Detiste <tchet@debian.org>  Wed, 07 Feb 2024 23:48:46 +0100
+
 python-click-repl (0.2.0-3+pexip24u4) pexip-bookworm; urgency=medium
 
   * New versioning scheme
